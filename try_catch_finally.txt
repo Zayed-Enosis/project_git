@@ -1,0 +1,1 @@
+The Scala try-catch-finally syntax is similar to the Java try-catch-finally syntax, except for the catch area, which uses Scala's pattern matching capabilities to handle the different exceptions you might run into.

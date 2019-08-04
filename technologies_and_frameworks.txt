@@ -1,0 +1,11 @@
+MFC
+WPF
+Windows API
+QT
+ASP.Net (Web forms and MVC)
+WCF
+JSP
+Servlets
+CORBA
+OLE/COM/COM+/DCOM
+ADO/OLEDB/ODBC
